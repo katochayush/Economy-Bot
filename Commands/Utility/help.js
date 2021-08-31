@@ -5,7 +5,7 @@ module.exports = {
   	help: {
       		name: "help",
       		description: "The basic Help command",
-      		aliases: ["commands", "halp"],
+      		aliases: ["commands", "help"],
 		      usage: "(command)",
       		category: "Utility"
 },
